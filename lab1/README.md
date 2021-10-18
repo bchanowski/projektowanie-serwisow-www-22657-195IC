@@ -1,4 +1,4 @@
-#Laboratorium 1 - "Praca z systemem kontroli wersji, podstawy WWW"
+# Laboratorium 1 - "Praca z systemem kontroli wersji, podstawy WWW"
 
 ### Strona główna (index.html)
 
