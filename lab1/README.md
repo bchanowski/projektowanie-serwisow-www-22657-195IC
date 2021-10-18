@@ -9,7 +9,7 @@ skorzystałem również z szablonu bootstrap, który był wymieniony w poleceniu
 gotowego navbara jak i układ strony i jedynie dodaje swoje elementy w miejscu page content. Mam również dostęp
 do skryptów JS'a jak i wielu pomocnych class css'a.
 
-![Zdjęcie strony głównej](/assets/strona-glowna.png "Strona główna")
+![Zdjęcie strony głównej](/lab1/assets/strona-glowna.png "Strona główna")
 
 ### List (list.html)
 
@@ -17,7 +17,7 @@ W podstronie list znajdziemy przykładowy list stworzony zgodnie z zasadami pisa
 sformatowany, czcionka Segoe użyta w formacie italic, tak aby użytkownik pomyślał że to list tylko gdy spojrzy na stronę.
 Stronę znów podzieliłem na dwa div'y, część górną oraz już samą zawartość listu.
 
-![Zdjęcie listu](/assets/list.png "List")
+![Zdjęcie listu](/lab1/assets/list.png "List")
 
 ### Podręcznik (podrecznik.html)
 
@@ -27,7 +27,7 @@ korzystam tylko z jednego div'a, który znajduje się div'ie z obramówką, któ
 podręcznika. Umieślicłem również zdjęcie z geometrią oraz stworzyłem małą tabelkę w której znajduje się wyjaśnienie
 danego pojęcia matematycznego.
 
-![Zdjęcie podręcznika](/assets/podrecznik.png "Podręcznik")
+![Zdjęcie podręcznika](/lab1/assets/podrecznik.png "Podręcznik")
 
 ### Formularz (formularz.html)
 
@@ -36,7 +36,7 @@ pola radio oraz checkbox wraz z przyciskiem submit, który obecnie nic nie robi.
 inputów, drugi z samymi input'ami tak aby były one wycentrowane na środku, a tekst był po lewej stronie strony. Zdecydowałem się
 również znów dać wszystko do jednego div'a z obramówką gdyż wydawało mi się to bardziej estetyczne.
 
-![Zdjęcie formularza](/assets/formularz.png "Formularz")
+![Zdjęcie formularza](/lab1/assets/formularz.png "Formularz")
 
 # [Start Bootstrap - Bare](https://startbootstrap.com/template/bare/)
 
