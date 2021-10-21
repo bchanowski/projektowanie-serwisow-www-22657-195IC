@@ -1,4 +1,4 @@
-#Laboratorium 2 - "Praca z elementami DOM z wykorzystaniem Javascript"
+# Laboratorium 2 - "Praca z elementami DOM z wykorzystaniem Javascript"
 
 ### Strona główna
 
