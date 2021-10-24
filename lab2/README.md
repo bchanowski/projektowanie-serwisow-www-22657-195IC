@@ -1,29 +1,28 @@
 # Laboratorium 2 - "Praca z elementami DOM z wykorzystaniem Javascript"
 
+Na każdej ze stron dodałem zegar pokazujący lokalną datę oraz czas, za pomocą funkcji która pobiera obecną datę i za pomocą getMonth(), getDate(), getHours(), getMinutes() oraz getSeconds() daję nam odpowiednie wartości. Dane są wprowadzone w lewym górnym rogu w miejscu gdzie w lab1 były tytuły stron.
+
 ### Strona główna
 
-Na tej stronie dodałem ramkę solid 10px do informacji o autorze, oraz zmieniłem główny kolor tła oraz ten w miejscu linków do użytych technologii.
-Na każdej ze stron zmieniłem również napis w lewym górnym rogu na mini kalendarz, który pokazuje datę oraz czas lokalny.
+Na stronie głównej zmieniłem wartości getElementById("autor"), zmieniając borderStyle, marginTop i backgroundColor wszystkich divów oraz całego body, następnie zrobiłem funkcję która poprzez document.createElement stworzyła zdjęcie oraz hiperłącze, zmieniłem ich podstawowe atrybuty, takie jak height, width czy display, tak aby pokazały się zaraz za informacjami o autorze i po kliknięciu w link przeniosło użytkownika do mojego konta github'a. Do samego html'a zostały dodane za pomocą appendChild do div'a z id "autor".
 
 ![Zdjęcie strony głównej](/lab2/assets/strona-glowna2.png "Strona główna")
 
 ### List
 
-Na tej podstronie dodałem zdjęcie w tle, którego spozycjonowałem na środku i użyłem opcji no-repeat, żeby pojawiło się tylko raz i
-dało efekt znaku wodnego na liscie (opacity samego zdjęcia zmieniłem za pomocą innej aplikacji).
+Na podstronie list za pomocą createElement stworzyłem przycisk, który po kliknięciu wykonuję funkcję, która zwiększa czionkę tekstu listu. Przycisk jest dodwany do strony poprzez appendChild, poza tym do div'a z id "list" dodaje backgroundImage, który pozycjonuje na jego środku i zmieniam mu wartość backgroundRepeat na "no-repeat", tak aby pokazał się tylko raz, aby wyglądał tak jak znak wodny.
 
 ![Zdjęcie listu](/lab2/assets/list2.png "List")
 
 ### Podręcznik
 
-W stronie z podręcznika, dodałem jedynie funkcje, która po kliknięciu na zdjęcie do zadania siódmego pokazuje ono odpowiedzi do niego.
+W podstronie podręcznik dodałem funkcję pokazOdp, która po wydarzeniu onclick w zdjęcie "zdjecie7" zmienia je na inny obrazek, który ma zaznaczone poprawne odpowiedzi do zadania. Poza tym zmieniłem backgroundImage body całej strony z odpowiednimi wartościami repeat i size na zdjęcie przypominające biurko i to samo na div'ie z danym strony podręcznika na tło przypominające papierową kartkę.
 
 ![Zdjęcie strony z podręcznika](/lab2/assets/podrecznik2.png "Podręcznik")
 
 ### Formularz
 
-Na podstronie formularz dodałem alert, który wywołuje się po kliknięciu przycisku i informuje o przesłaniu formularz (formularz wciąż
-nie jest działający), oraz zmieniłem kolor tła naszego boxa z formularzem, jak i zmieniłem jego obramówkę na bardziej okrągłą.
+W formularzu dodałem funkcję komunikat, która wyświetla alert, dziękujący użytkownikowi za przesłanie formularzu, oraz zmieniłem backgroundColor oraz borderRadius div'a "form", w którym znajduję się nasz formularz, jak i backgroundColor całej strony.
 
 ![Zdjęcie formularza](/lab2/assets/formularz2.png "Formularz")
 
