@@ -6,9 +6,11 @@ listzmiany.style.backgroundImage = "url(assets/amw_logo.png)";
 listzmiany.style.backgroundRepeat = "no-repeat";
 listzmiany.style.backgroundPosition = "center";
 listzmiany.style.backgroundSize = "400px";
+
 var przyciskZwiekszCzcionke = document.createElement("button");
 przyciskZwiekszCzcionke.innerText = "Zwiększ czcionke";
 przyciskZwiekszCzcionke.style.background = "green";
+document.getElementById("list-g").appendChild(przyciskZwiekszCzcionke);
 
 przyciskZwiekszCzcionke.onclick = function(){
 	document.getElementById("list-formal").style.fontSize = "35px";
@@ -32,6 +34,4 @@ function zegar(){
 	var komunikat = dzien + "/" + miesiac + " " + godzina + ":" + minuta + ":" + sekunda;
 	document.getElementById("data-czas-lokal").innerHTML = komunikat;
 	setTimeout("zegar()",1000);
-
-    document.getElementById("list-g").appendChild(przyciskZwiekszCzcionke);
 }

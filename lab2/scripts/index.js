@@ -9,6 +9,7 @@ atr.style.backgroundColor = "white";
 document.getElementById("tech").style.backgroundColor = "burlywood";
 gitLink();
 
+
 function gitLink(){
     var img = document.createElement('img');
     var a = document.createElement("a");
@@ -29,6 +30,22 @@ function gitLink(){
 
 }
 
+var zmianaMotywu = document.createElement("button");
+zmianaMotywu.innerHTML = "Ciemny motyw";
+zmianaMotywu.style.backgroundSize = "cover";
+zmianaMotywu.style.background = "black";
+zmianaMotywu.style.color = "white";
+document.getElementById("nav").appendChild(zmianaMotywu);
+
+zmianaMotywu.onclick = function(){
+    atr.style.backgroundColor = "black";
+    atr.style.color = "white";
+    document.getElementById("git-link").src = "assets/git-dark-mode.png";
+    document.body.style.backgroundColor = "#2e2e2e";
+    document.getElementById("tech").style.backgroundColor = "black";
+    document.getElementById("tech").style.color = "white";
+};
+
 function zegar(){
 	var data = new Date();
 
@@ -47,6 +64,7 @@ function zegar(){
 	var komunikat = dzien + "/" + miesiac + " " + godzina + ":" + minuta + ":" + sekunda;
 	document.getElementById("data-czas-lokal").innerHTML = komunikat;
 	setTimeout("zegar()",1000);
+
 }
 
 
