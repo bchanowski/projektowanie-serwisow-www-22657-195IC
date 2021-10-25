@@ -34,3 +34,5 @@ W formularzu najpierw zmieniłem backgroundColor body podstrony, a następnie za
 
 ![Zdjęcie formularza - wszystkie opcje](/lab2/assets/formularz2b.png "Formularz - wszytkie opcje")
 
+![Zdjęcie komunikatu formularza](/lab2/assets/komunikat.png "Komunikat formularza")
+
