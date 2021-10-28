@@ -30,7 +30,7 @@ Na podstronie list znajdują się dwa event listener'y: keypress - po wciśnięc
 
 ### Podręcznik
 
-Na podstronie podręcznik znajdują się dwa event listener'y: dbclick - po podwójny kliknięciu w ramkę z wyjaśnieniem danego pojęcia powiększy się ona, scroll - po zeskrolowaniu strony tło zmieni się na bardziej ciemną wersję.
+Na podstronie podręcznik znajdują się dwa event listener'y: dblclick - po podwójny kliknięciu w ramkę z wyjaśnieniem danego pojęcia powiększy się ona, scroll - po zeskrolowaniu strony tło zmieni się na bardziej ciemną wersję.
 
 ![Zdjęcie strony z podręcznika](/lab3/assets/podr.png "Podręcznik")
 
@@ -42,7 +42,7 @@ W formularzu mamy trzy event listener'y: submit - po kliknięciu przycisku submi
 
 ![Zdjęcie formularza](/lab3/assets/form.png "Formularz")
 
-![Komunikat - zmiana wartości](/lab3/assets/form-zmiana.png - zmiana.png "Formularz - zmiana wartości imię")
+![Komunikat - zmiana wartości](/lab3/assets/form-zmiana.png "Formularz - zmiana wartości imię")
 
 ![Komunikat - wklejenie danych](/lab3/assets/form-wklej.png "Formularz - wklejenie danych")
 
