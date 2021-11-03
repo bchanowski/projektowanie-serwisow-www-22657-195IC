@@ -4,7 +4,7 @@ W celu wykonania tego zadania dodałem nową zakładkę do mojej strony z tytuł
 
 ### Gra
 
-Gra którą stworzyłem tą PONG, w którym gracz porusza platformą i stara się odbijać lecącą piłkę tak aby nie trafiła do jego bramki, a do tej przeciwnika, którym w mojej grze będzie "komputer".  
+Gra którą stworzyłem to PONG, w którym gracz porusza platformą i stara się odbijać lecącą piłkę tak aby nie trafiła do jego bramki, a do tej przeciwnika, którym w mojej grze będzie "komputer".  
 
 Wszystkie elementy gry są "rysowane" na canvasie (dodatkowe komentarze w pliku gra.js), na głownym ekranie możemy zobaczyć dwie platformy, wynik oraz liczbę punktów potrzebnych do wygrania.
 
