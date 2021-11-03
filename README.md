@@ -3,4 +3,5 @@
 [Lab1](https://github.com/bchanowski/projektowanie-serwisow-www-22657-195IC/tree/main/lab1)  
 [Lab2](https://github.com/bchanowski/projektowanie-serwisow-www-22657-195IC/tree/main/lab2)  
 [Lab3](https://github.com/bchanowski/projektowanie-serwisow-www-22657-195IC/tree/main/lab3)  
-[Lab4] :soon:
+[Lab4](https://github.com/bchanowski/projektowanie-serwisow-www-22657-195IC/tree/main/lab4)  
+[Lab5] :soon: 
