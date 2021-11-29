@@ -6,5 +6,5 @@
 [Lab4](https://github.com/bchanowski/projektowanie-serwisow-www-22657-195IC/tree/main/lab4)  
 [Lab5](https://github.com/bchanowski/projektowanie-serwisow-www-22657-195IC/tree/main/lab5)   
 [Lab6](https://github.com/bchanowski/projektowanie-serwisow-www-22657-195IC/tree/main/lab6/strona-22657)  
-[Lab7] :soon:  
+[Lab7](https://github.com/bchanowski/projektowanie-serwisow-www-22657-195IC/tree/main/lab7/strona-22657)  
 [Lab8] :soon: 
