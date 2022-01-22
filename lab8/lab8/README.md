@@ -2,7 +2,7 @@
 
 ### Laboratorium nr. 8 - React - aplikacja nr 3 + analiza kodu źródłowego + git difftool  
 
-Link do przykładu - https://github.com/roginfarrer/react-collapsed (simple usage) 
+Link do przykładu - https://github.com/roginfarrer/react-collapsed  
 
 #### Zainstalowane pakiety:  
 
